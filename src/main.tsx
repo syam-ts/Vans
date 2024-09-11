@@ -5,7 +5,6 @@ import About from "./pages/About.tsx"
 import Vans from "./pages/Vans.tsx"
 import VanDetail from "./pages/VanDetail.tsx"
 import './index.css'
-
 import "./server"
 
 function App() {

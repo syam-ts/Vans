@@ -1,4 +1,3 @@
-import React from "react"
 import bgImg from '../assests/images/home-hero.png'
 import { Link } from "react-router-dom"
 
