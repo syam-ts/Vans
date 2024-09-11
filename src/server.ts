@@ -1,6 +1,6 @@
 import { createServer, Model } from "miragejs"
 
-
+//Fake server using mirage.js
 createServer({
     models: {
         vans: Model,

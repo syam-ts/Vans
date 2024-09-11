@@ -1,10 +1,10 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import Vans from "./pages/Vans"
-import VanDetail from "./pages/VanDetail"
+import Home from "./pages/Home.tsx"
+import About from "./pages/About.tsx"
+import Vans from "./pages/Vans.tsx"
+import VanDetail from "./pages/VanDetail.tsx"
+import './index.css'
 
 import "./server"
 
